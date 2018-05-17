@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Bodoni XT;
+    src: url(BodoniXT_ttf);
+}
+h1{
+  font-family: Bodoni XT;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  font-size: 50pt;
+  text-align: center;
+  margin-top: 10%;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-size: 15pt;
+  margin-bottom: 3%;
+}
+h4{
+  text-align: center;
+  margin-top: 2%;
+}
+body{
+  font-family: Bodoni XT;
+  background-image: url(https://static1.squarespace.com/static/582bafbc20099e267f5cc3e8/589092b13e00beee6260e6ca/589093e2e58c62b50ea9e32a/1502215383324/zebra_1250.jpg?format=1500w);
+}
+button{
+  margin-left: 50%;
+}
+.navBar{
+  text-align: center;
+  font-size: 15pt;
+}
+.checkbox{
+  margin-left: 35%
+}
+.NewAccount{
+  text-align: center;
+}
+.searchLabel{
+  margin-left: 45%;
+}
